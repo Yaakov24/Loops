@@ -1,0 +1,14 @@
+C:\Users\ygold\OneDrive\Desktop\repos\loops\bin\Debug\net8.0\loops.exe
+C:\Users\ygold\OneDrive\Desktop\repos\loops\bin\Debug\net8.0\loops.deps.json
+C:\Users\ygold\OneDrive\Desktop\repos\loops\bin\Debug\net8.0\loops.runtimeconfig.json
+C:\Users\ygold\OneDrive\Desktop\repos\loops\bin\Debug\net8.0\loops.dll
+C:\Users\ygold\OneDrive\Desktop\repos\loops\bin\Debug\net8.0\loops.pdb
+C:\Users\ygold\OneDrive\Desktop\repos\loops\obj\Debug\net8.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygold\OneDrive\Desktop\repos\loops\obj\Debug\net8.0\loops.AssemblyInfoInputs.cache
+C:\Users\ygold\OneDrive\Desktop\repos\loops\obj\Debug\net8.0\loops.AssemblyInfo.cs
+C:\Users\ygold\OneDrive\Desktop\repos\loops\obj\Debug\net8.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\ygold\OneDrive\Desktop\repos\loops\obj\Debug\net8.0\loops.dll
+C:\Users\ygold\OneDrive\Desktop\repos\loops\obj\Debug\net8.0\refint\loops.dll
+C:\Users\ygold\OneDrive\Desktop\repos\loops\obj\Debug\net8.0\loops.pdb
+C:\Users\ygold\OneDrive\Desktop\repos\loops\obj\Debug\net8.0\loops.genruntimeconfig.cache
+C:\Users\ygold\OneDrive\Desktop\repos\loops\obj\Debug\net8.0\ref\loops.dll
